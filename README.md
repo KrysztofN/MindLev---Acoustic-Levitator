@@ -1,4 +1,4 @@
-# MindLev---Acoustic-Levitator
+# FuturFlow---Acoustic-Levitator
 Innovative award-winning acoustic levitator. 
 
 Showcase of the device and the application is available at youtube:
