@@ -18,4 +18,8 @@ project you will find all the neccesarry information there.
 
 For more info, please contact me directly.
 
+## 2nd Prototype
+[![2nd prototype](https://img.youtube.com/vi/XUKNI5owW9Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=XUKNI5owW9Q)
+
+## 1st Prototype
 [![1st prototype](https://img.youtube.com/vi/3aWvUZZAy_Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=3aWvUZZAy_Y)
